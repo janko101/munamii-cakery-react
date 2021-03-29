@@ -1,4 +1,4 @@
-export default function Product({ title, price, fileName }) {
+export default function ProductCard({ title, price, fileName }) {
   const productImages = require(`../assets/images/${fileName}`);
   const productImageURL = productImages.default;
 
