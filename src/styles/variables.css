@@ -1,0 +1,13 @@
+:root {
+  --color-brown: #540b0e;
+  --color-green: #2ec4b6;
+  --color-pink: #ff477e;
+  --color-mangenta: #dd2a7b;
+  --color-facebook-blue: #3b5998;
+
+  --space-extra-small: 4px;
+  --space-small: 8px;
+  --space-medium: 16px;
+  --space-big: 24px;
+  --space-extra-big: 40px;
+}

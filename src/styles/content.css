@@ -1,0 +1,25 @@
+.content-wrap {
+  padding-bottom: var(--space-big);
+  padding-left: var(--space-extra-small);
+  padding-right: var(--space-extra-small);
+}
+
+@media (min-width: 400px) {
+  .content-wrap .content {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 550px) {
+  .content-wrap .content {
+    font-size: 24px;
+    padding-left: var(--space-medium);
+    padding-right: var(--space-medium);
+  }
+}
+
+@media (min-width: 1020px) {
+  .content-wrap .content {
+    font-size: 36px;
+  }
+}

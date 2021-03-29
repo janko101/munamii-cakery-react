@@ -1,4 +1,4 @@
-import ProductCard from "./ProductCard"
+import ProductCard from "./ProductCard";
 
 import cupCakesJSON from "../assets/data/cupCakes.json";
 import weddingCakesJSON from "../assets/data/weddingCakes.json";
@@ -30,9 +30,9 @@ export default function ProductList() {
     <div className="content-wrap">
       <section className="content" id="cupcakes">
         <h2>Cupcakes</h2>
-        {cupCakes}
+        <div className="grid">{cupCakes}</div>
         <h2>Wedding Cakes</h2>
-        {weddingCakes}
+        <div className="grid">{weddingCakes}</div>
       </section>
     </div>
   );

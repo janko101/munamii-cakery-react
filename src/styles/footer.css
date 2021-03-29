@@ -1,0 +1,131 @@
+.footer {
+  position: absolute;
+  bottom: var(--space-big);
+  height: var(--space-medium);
+  width: 100%;
+}
+
+.footer .contact-links {
+  margin: auto;
+  padding-left: var(--space-medium);
+  text-align: center;
+  font-size: 12px;
+}
+
+.footer .contact-links li {
+  list-style: none;
+  display: inline-block;
+}
+
+.footer .contact-links li a {
+  text-decoration: none;
+  padding: var(--space-small);
+}
+
+#link-facebook {
+  color: var(--color-facebook-blue);
+}
+
+.fab.fa-instagram-square {
+  color: transparent;
+  background: -webkit-radial-gradient(
+    30% 107%,
+    circle,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -o-radial-gradient(
+    30% 107%,
+    circle,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -webkit-radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+#link-instagram {
+  color: transparent;
+  background: -webkit-radial-gradient(
+    30% 107%,
+    circle,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -o-radial-gradient(
+    30% 107%,
+    circle,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background: -webkit-radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
+#link-mail {
+  color: var(--color-brown);
+}
+
+@media (min-width: 550px) {
+  .footer .contact-links {
+    font-size: 18px;
+  }
+
+  .footer .contact-links li a {
+    padding-left: var(--space-big);
+  }
+}
+
+@media (min-width: 1020px) {
+  .footer .contact-links {
+    font-size: 28px;
+  }
+
+  .footer .contact-links li a {
+    padding-left: var(--space-extra-big);
+  }
+}
