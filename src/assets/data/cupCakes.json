@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Choco",
+    "price": "20$"
+  },
+  {
+    "id": 2,
+    "title": "Lemon Heaven",
+    "price": "22$"
+  },
+  {
+    "id": 3,
+    "title": "Oreo Delight",
+    "price": "24$"
+  },
+  {
+    "id": 4,
+    "title": "Pretzel",
+    "price": "18$"
+  },
+  {
+    "id": 5,
+    "title": "Pumpkin Kiss",
+    "price": "19$"
+  },
+  {
+    "id": 6,
+    "title": "Rainbow Cupcake",
+    "price": "21$"
+  },
+  {
+    "id": 7,
+    "title": "Rose Pearls",
+    "price": "23$"
+  },
+  {
+    "id": 8,
+    "title": "Mister Strawberry",
+    "price": "20$"
+  }
+]
