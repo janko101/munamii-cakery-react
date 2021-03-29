@@ -2,41 +2,49 @@
     {
       "id": 1,
       "title": "Flower Dream",
-      "price": "105$"
+      "price": "105$",
+      "fileName": "cake-000.jpg"
     },
     {
       "id": 2,
       "title": "Autumn Delight",
-      "price": "92$"
+      "price": "92$",
+      "fileName": "cake-001.jpg"
     },
     {
       "id": 3,
       "title": "Purple Hapiness",
-      "price": "104$"
+      "price": "104$",
+      "fileName": "cake-002.jpg"
     },
     {
       "id": 4,
       "title": "Sweet Wood",
-      "price": "98$"
+      "price": "98$",
+      "fileName": "cake-003.jpg"
     },
     {
       "id": 5,
       "title": "Winter Breeze",
-      "price": "79$"
+      "price": "79$",
+      "fileName": "cake-004.jpg"
     },
     {
       "id": 6,
       "title": "Forever After",
-      "price": "91$"
+      "price": "91$",
+      "fileName": "cake-005.jpg"
     },
     {
       "id": 7,
       "title": "Simple Pleasure",
-      "price": "73$"
+      "price": "73$",
+      "fileName": "cake-006.jpg"
     },
     {
       "id": 8,
       "title": "Spring Forest",
-      "price": "120$"
+      "price": "120$",
+      "fileName": "cake-007.jpg"
     }
   ]

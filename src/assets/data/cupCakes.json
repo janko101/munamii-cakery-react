@@ -2,41 +2,49 @@
   {
     "id": 1,
     "title": "Choco",
-    "price": "20$"
+    "price": "20$",
+    "fileName": "choco.jpg"
   },
   {
     "id": 2,
     "title": "Lemon Heaven",
-    "price": "22$"
+    "price": "22$",
+    "fileName": "lemon-heaven.jpg"
   },
   {
     "id": 3,
     "title": "Oreo Delight",
-    "price": "24$"
+    "price": "24$",
+    "fileName": "oreo-delight.jpg"
   },
   {
     "id": 4,
     "title": "Pretzel",
-    "price": "18$"
+    "price": "18$",
+    "fileName": "pretzel.jpg"
   },
   {
     "id": 5,
     "title": "Pumpkin Kiss",
-    "price": "19$"
+    "price": "19$",
+    "fileName": "pumpkin-kiss.jpg"
   },
   {
     "id": 6,
     "title": "Rainbow Cupcake",
-    "price": "21$"
+    "price": "21$",
+    "fileName": "rainbow.jpg"
   },
   {
     "id": 7,
     "title": "Rose Pearls",
-    "price": "23$"
+    "price": "23$",
+    "fileName": "rose.jpg"
   },
   {
     "id": 8,
     "title": "Mister Strawberry",
-    "price": "20$"
+    "price": "20$",
+    "fileName": "strawberry-tie.jpg"
   }
 ]
