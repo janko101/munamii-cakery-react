@@ -16,7 +16,7 @@ export default function App() {
       <BrowserRouter>
         <Switch>
           <Route component={HomePage} path="/" exact/>
-          <Route component={About} path="/" />
+          <Route component={About} path="/about"  />
           <Route component={ProductList} path="/products" />
           <Route component={Contact} path="/contact" />
         </Switch>
